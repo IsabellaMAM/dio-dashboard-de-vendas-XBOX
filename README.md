@@ -29,7 +29,7 @@ Este projeto consiste em um Dashboard no Excel como base as vendas de assinatura
 
 * Crie os filtros: Os filtros disponíveis para alternar entre os períodos e visualizar as métricas na aba de Dashboard, refletido no filtro de segmentação de dados derivado da tabela dinâmica tbl_annual_total e tbl_easeasonpass_total;
 
-* Layout: implemente os elementos da aba Assets no Dashboard e também disposição do menu através do dimencionamento das células para deixar de acordo com o que o usuário entenda e consiga análisar os visuais sem esforço, também pensando no serviços e plataformas que o usuário é mais habituado utilizar.
+* Layout: Implemente os elementos da aba Assets no Dashboard e também disposição do menu através do dimencionamento das células para deixar de acordo com o que o usuário entenda e consiga análisar os visuais sem esforço, também pensando no serviços e plataformas que o usuário é mais habituado utilizar.
 
 ## Tecnologias
 
